@@ -5,7 +5,7 @@
 https://en.wikipedia.org/wiki/Double_pendulum
 
 
-![Lorenz Attractor]()
+![Lorenz Attractor](Lorenz_system.gif)
 
 
 https://en.wikipedia.org/wiki/Lorenz_system
