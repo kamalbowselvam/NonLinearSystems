@@ -1,6 +1,6 @@
 # NonLinearSystems
 
-![Double Pendulum]()
+![Double Pendulum](Double_Pendulum.gif)
 
 https://en.wikipedia.org/wiki/Double_pendulum
 
